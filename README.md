@@ -16,7 +16,7 @@ int main()
             }
 
 
-    if(flag=0)
+    if(flag=0)  #if flag variable = 0 then this condition is true
         printf("%d is not a prime number",n);
     else
 
