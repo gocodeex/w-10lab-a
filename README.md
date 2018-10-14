@@ -57,7 +57,7 @@ int main()
   printf("ENTER A NUMBER:");
   scanf("%d",&n);
 
-  primeno(n);
+  primeno(n); #calling function primeno
   armstrongno(n);
   return 0;
   }
