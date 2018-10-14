@@ -3,7 +3,7 @@
 #include<string.h>
 int main()
 {
-    int n,i,a,b,flag,prod;
+    int n,i,a,b,flag=0,prod;
 
     int primeno(n)/*function to check prime no */
        {
