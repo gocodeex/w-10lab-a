@@ -58,6 +58,6 @@ int main()
   scanf("%d",&n);
 
   primeno(n); #calling function primeno
-  armstrongno(n);
+  armstrongno(n);#calling function armstrongno
   return 0;
   }
